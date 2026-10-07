@@ -1,0 +1,27 @@
+/*-- scss:defaults --*/
+$body-bg: #F8F8F4;          // paper
+$body-color: #26241F;       // soil
+$link-color: #3F5A45;       // moss
+$link-hover-color: #9A7B4F; // silt
+$navbar-bg: #F8F8F4;
+$navbar-fg: #26241F;
+$navbar-hl: #3F5A45;
+$font-family-sans-serif: "Newsreader", Georgia, serif;
+$font-size-root: 19px;
+$line-height-base: 1.7;
+$headings-font-weight: 500;
+
+/*-- scss:rules --*/
+h1, h2, h3 { letter-spacing: -0.01em; }
+.navbar { border-bottom: 1px solid #DDDDD2; }
+.navbar-brand .navbar-title { font-weight: 600; font-size: 1.05rem; }
+.hero { padding: 5rem 0 3rem; max-width: 40rem; }
+.hero h1 { font-size: 3.4rem; line-height: 1.05; font-weight: 400; margin-bottom: 1.2rem; }
+.hero p { font-size: 1.25rem; color: #5B5A50; }
+.summary-de, .summary-en { font-style: italic; color: #5B5A50; border-left: 3px solid #C9D2BF; padding-left: 1rem; margin: 1.5rem 0 2.5rem; }
+.quarto-figure img, figure img { border-radius: 2px; }
+figcaption, .figure-caption { font-size: 0.85rem; color: #6B6A5F; }
+.quarto-grid-item .card { border: none; background: transparent; }
+.quarto-grid-item .card-img-top { border-radius: 2px; }
+.quarto-grid-item .listing-title { font-weight: 500; }
+@media (max-width: 576px) { .hero h1 { font-size: 2.4rem; } .hero { padding-top: 2.5rem; } }

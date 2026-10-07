@@ -1,0 +1,9 @@
+---
+title: "Stories"
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  categories: true
+  fields: [image, date, title, description, categories]
+---

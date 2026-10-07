@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Field Notes from a Gap Year"
+  description: "A slow journey around the world, told through ecology, economics and everything in between."
+  navbar:
+    background: light
+    left:
+      - href: stories.qmd
+        text: Stories
+      - href: route.qmd
+        text: Route
+      - href: practical.qmd
+        text: Practical
+      - href: about.qmd
+        text: About
+    right:
+      - icon: instagram
+        href: https://www.instagram.com/lifescience.len
+        aria-label: Instagram
+  page-footer: "Field Notes from a Gap Year"
+
+format:
+  html:
+    theme: [default, custom.scss]
+    include-in-header: header.html
+    lightbox: true
+    lang: en
+    toc: false

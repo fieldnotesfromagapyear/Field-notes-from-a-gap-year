@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+Replace this text with a short introduction of the two of you: who you are, why you took a gap year and what readers can expect. A photo of the two of you works well here:
+
+`![](images/us.jpg)`

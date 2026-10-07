@@ -1,0 +1,20 @@
+---
+title: ""
+listing:
+  contents: posts
+  type: grid
+  grid-columns: 2
+  sort: "date desc"
+  fields: [image, date, title, description]
+  max-items: 6
+page-layout: full
+title-block-banner: false
+---
+
+::: hero
+# Field Notes from a Gap Year
+
+A slow trip around the world with a biomedical scientist's curiosity about ecosystems and a consultant's eye for the economics behind them. Overland where possible, one place at a time.
+:::
+
+## Latest notes

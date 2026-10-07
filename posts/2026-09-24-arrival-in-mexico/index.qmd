@@ -1,0 +1,24 @@
+---
+title: "Sample: Arrival in Mexico"
+description: "Replace this line with a one-sentence teaser for the overview page."
+date: 2026-09-24
+categories: [Mexico, Stories]
+image: images/hero.png
+draft: true
+---
+
+![Caption for the photo. Delete `{.column-screen-inset}` if you want a smaller image.](images/hero.png){.column-screen-inset}
+
+::: summary-de
+**Kurzfassung:** Zwei bis drei Sätze auf Deutsch, worum es in diesem Beitrag geht. Wenn du auf Deutsch schreibst, kommt hier die englische Fassung hin.
+:::
+
+This is where your story starts. Write it like a letter to friends: what you saw, smelled and felt today. When something makes you curious, follow it in the same paragraph and bring in the ecology or the numbers, so the facts come out of the story and do not sit in a separate box.
+
+## A heading for the next part
+
+Use second-level headings sparingly. Add more photos in between:
+
+![Another caption](images/hero.png)
+
+Finish with what you would tell a friend who wants to go there: what it cost, how you got there, what you would do differently.
